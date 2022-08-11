@@ -1,5 +1,13 @@
 # Snake-Game
-A fully functional Snake Game using Scratch
+
+Markup :  Description
+
+Created a fully functional snake game using scratch
+
+Markup :  Tasks
+
+Used conditional statements,loops,customf unctions,movement and following.
+
 
 # Images
 
