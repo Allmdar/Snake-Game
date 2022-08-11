@@ -1,10 +1,10 @@
 # Snake-Game
 
-Markup :  Description
+##Description##
 
 Created a fully functional snake game using scratch
 
-Markup :  Tasks
+##Tasks##
 
 Used conditional statements,loops,customf unctions,movement and following.
 
