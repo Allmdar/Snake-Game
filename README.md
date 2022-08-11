@@ -1,12 +1,12 @@
 # Snake-Game
 
-##Description##
+## Description ##
 
-Created a fully functional snake game using scratch
+Created a fully functional snake game using scratch (MIT)
 
-##Tasks##
+## Tasks ##
 
-Used conditional statements,loops,customf unctions,movement and following.
+Used conditional statements,loops,custom functions, movement and following.
 
 
 # Images
